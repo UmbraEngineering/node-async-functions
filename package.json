@@ -2,10 +2,10 @@
   "author": "James Brumond <james@jbrumond.me> (http://jbrumond.me)",
   "name": "async-functions",
   "description": "A simple, clean way of calling functions asynchronously",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kbjr/node-async-functions.git"
+    "url": "git://github.com/UmbraEngineering/node-async-functions.git"
   },
   "main": "lib/index.js",
   "dependencies": {},
