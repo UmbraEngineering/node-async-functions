@@ -29,7 +29,7 @@ var scope = { baz: 'Hello!' };
 bar.bind(scope).async(1, 2);  // Logs "Hello!" and then "3"
 
 // Also works in the .apply style
-foo.asyncApply([1, 2])
+foo.asyncApply([1, 2]);
 ```
 
 ## How does it work?
