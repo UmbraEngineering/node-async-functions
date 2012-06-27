@@ -20,7 +20,7 @@ var foo = function(a, b) {
 foo.async(1, 2);  // Logs "3", but async!
 
 var bar = function(a, b) {
-	console.log(this);
+	console.log(this.baz);
 	console.log(a + b);
 };
 
